@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": ""
+}
+
+//just defining a template for all the settings in our app. the actual values are not stored here
